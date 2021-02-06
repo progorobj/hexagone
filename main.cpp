@@ -29,4 +29,6 @@ int main()
       int x=donnerCote();  
        double y=calculerHauteur(x); 
        afficherDetail(y,x );
+    int b=20
+    std::cout<<"La valeur de b est : "<<b<<std::endl;
 }
