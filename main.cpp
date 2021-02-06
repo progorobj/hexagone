@@ -25,7 +25,7 @@
     
 int main()
 {
-
+      int z =30;
       int x=donnerCote();  
        double y=calculerHauteur(x); 
        afficherDetail(y,x );
